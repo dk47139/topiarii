@@ -1,0 +1,42 @@
+/*
+Theme Name:     mfc-biz-child
+Theme URI:      http://wp-mfc.com/
+Description:    This is a child-theme for starter-biz-theme
+Author:         WP-MFC Team
+Author URI:     http://wp-mfc.com/
+Template:       mfc-biz
+Version:        1.0
+*/
+
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+
+}
+
+@media (max-width:767px){
+
+}
+
+@media(max-width:670px){
+
+}
+
+@media(min-width:480px) and (max-width:670px){
+	.container{width:480px;}
+	
+}
+@media(max-width: 480px){
+	.container{width:414px;}
+}
+
+
+@media(max-width: 414px){
+	.container{width:320px;}
+}
+
+
